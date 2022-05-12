@@ -1,0 +1,700 @@
+.box{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    margin: 30px 20px;
+    background-color:rgba(0, 0, 0,0.5);
+    background-blend-mode: multiply;
+    background-image: url(../banner/banner10.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px 40px 0px; 
+    box-sizing: border-box;
+    border-radius: 10px;
+    float:left;
+
+}
+.box:hover a{
+    background-color: lightblue;
+    width: 100%;
+}
+
+
+.box:hover h1{
+color: aqua;
+
+
+}
+
+.box h1{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 300ms;
+
+}
+
+.box p{
+color: white;
+margin: bottom 50px;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.box a{
+    color: white;
+    text-decoration: none;
+    width: 180px;
+    height: 40px;
+    background-color: red;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    transition: 300ms;
+}
+
+
+.box1{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    margin: 30px 20px;
+    background-color:rgba(0, 0, 0,0.5);
+    background-blend-mode: multiply;
+    background-image: url(../banner1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px 40px 0px; 
+    box-sizing: border-box;
+    border-radius: 10px;
+    float:left;
+
+}
+.box1:hover a{
+    background-color: lightblue;
+    width: 100%;
+}
+
+
+.box1:hover h1{
+color: aqua;
+
+
+}
+
+.box1 h1{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 300ms;
+
+}
+
+.box1 p{
+color: white;
+margin: bottom 50px;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.box1 a{
+    color: white;
+    text-decoration: none;
+    width: 180px;
+    height: 40px;
+    background-color: red;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    transition: 300ms;
+}
+
+.box2{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    margin: 30px 20px;
+    background-color:rgba(0, 0, 0,0.5);
+    background-blend-mode: multiply;
+    background-image: url(../banner/banner2);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px 40px 0px; 
+    box-sizing: border-box;
+    border-radius: 10px;
+    float:left;
+
+}
+.box2:hover a{
+    background-color: lightblue;
+    width: 100%;
+}
+
+
+.box2:hover h1{
+color: aqua;
+
+
+}
+
+.box2 h1{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 300ms;
+
+}
+
+.box2 p{
+color: white;
+margin: bottom 50px;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.box2 a{
+    color: white;
+    text-decoration: none;
+    width: 180px;
+    height: 40px;
+    background-color: red;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    transition: 300ms;
+}
+
+.box3{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    margin: 30px 20px;
+    background-color:rgba(0, 0, 0,0.5);
+    background-blend-mode: multiply;
+    background-image: url(../banner/banner3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px 40px 0px; 
+    box-sizing: border-box;
+    border-radius: 10px;
+    float:left;
+
+}
+.box3:hover a{
+    background-color: lightblue;
+    width: 100%;
+}
+
+
+.box3:hover h1{
+color: aqua;
+
+
+}
+
+.box3 h1{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 300ms;
+
+}
+
+.box3 p{
+color: white;
+margin: bottom 50px;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.box3 a{
+    color: white;
+    text-decoration: none;
+    width: 180px;
+    height: 40px;
+    background-color: red;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    transition: 300ms;
+}
+
+.box4{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    margin: 30px 20px;
+    background-color:rgba(0, 0, 0,0.5);
+    background-blend-mode: multiply;
+    background-image: url(../banner/banner4.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px 40px 0px; 
+    box-sizing: border-box;
+    border-radius: 10px;
+    float:left;
+
+}
+.box4:hover a{
+    background-color: lightblue;
+    width: 100%;
+}
+
+
+.box4:hover h1{
+color: aqua;
+
+
+}
+
+.box4 h1{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 300ms;
+
+}
+
+.box4 p{
+color: white;
+margin: bottom 50px;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.box4 a{
+    color: white;
+    text-decoration: none;
+    width: 180px;
+    height: 40px;
+    background-color: red;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    transition: 300ms;
+}
+
+.box5{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    margin: 30px 20px;
+    background-color:rgba(0, 0, 0,0.5);
+    background-blend-mode: multiply;
+    background-image: url(../banner/banner5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px 40px 0px; 
+    box-sizing: border-box;
+    border-radius: 10px;
+    float:left;
+
+}
+.box5:hover a{
+    background-color: lightblue;
+    width: 100%;
+}
+
+
+.box5:hover h1{
+color: aqua;
+
+
+}
+
+.box5 h1{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 300ms;
+
+}
+
+.box5 p{
+color: white;
+margin: bottom 50px;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.box5 a{
+    color: white;
+    text-decoration: none;
+    width: 180px;
+    height: 40px;
+    background-color: red;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    transition: 300ms;
+}
+
+.box6{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    margin: 30px 20px;
+    background-color:rgba(0, 0, 0,0.5);
+    background-blend-mode: multiply;
+    background-image: url(../banner/banner6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px 40px 0px; 
+    box-sizing: border-box;
+    border-radius: 10px;
+    float:left;
+
+}
+.box6:hover a{
+    background-color: lightblue;
+    width: 100%;
+}
+
+
+.box6:hover h1{
+color: aqua;
+
+
+}
+
+.box6 h1{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 300ms;
+
+}
+
+.box6 p{
+color: white;
+margin: bottom 50px;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.box6 a{
+    color: white;
+    text-decoration: none;
+    width: 180px;
+    height: 40px;
+    background-color: red;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    transition: 300ms;
+}
+
+.box7{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    margin: 30px 20px;
+    background-color:rgba(0, 0, 0,0.5);
+    background-blend-mode: multiply;
+    background-image: url(../banner/banner7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px 40px 0px; 
+    box-sizing: border-box;
+    border-radius: 10px;
+    float:left;
+
+}
+.box7:hover a{
+    background-color: lightblue;
+    width: 100%;
+}
+
+
+.box7:hover h1{
+color: aqua;
+
+
+}
+
+.box7 h1{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 300ms;
+
+}
+
+.box7 p{
+color: white;
+margin: bottom 50px;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.box7 a{
+    color: white;
+    text-decoration: none;
+    width: 180px;
+    height: 40px;
+    background-color: red;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    transition: 300ms;
+}
+
+
+.box8{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    margin: 30px 20px;
+    background-color:rgba(0, 0, 0,0.5);
+    background-blend-mode: multiply;
+    background-image: url(../banner/banner8);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px 40px 0px; 
+    box-sizing: border-box;
+    border-radius: 10px;
+    float:left;
+
+}
+.box8:hover a{
+    background-color: lightblue;
+    width: 100%;
+}
+
+
+.box8:hover h1{
+color: aqua;
+
+
+}
+
+.box8 h1{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 300ms;
+
+}
+
+.box8 p{
+color: white;
+margin: bottom 50px;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.box8 a{
+    color: white;
+    text-decoration: none;
+    width: 180px;
+    height: 40px;
+    background-color: red;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    transition: 300ms;
+}
+
+
+.box9{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    margin: 30px 20px;
+    background-color:rgba(0, 0, 0,0.5);
+    background-blend-mode: multiply;
+    background-image: url(../banner/banner9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px 40px 0px; 
+    box-sizing: border-box;
+    border-radius: 10px;
+    float:left;
+
+}
+.box9:hover a{
+    background-color: lightblue;
+    width: 100%;
+}
+
+
+.box9:hover h1{
+color: aqua;
+
+
+}
+
+.box9 h1{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 300ms;
+
+}
+
+.box9 p{
+color: white;
+margin: bottom 50px;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.box9 a{
+    color: white;
+    text-decoration: none;
+    width: 180px;
+    height: 40px;
+    background-color: red;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    transition: 300ms;
+}
+
+
+.box10{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    margin: 30px 20px;
+    background-color:rgba(0, 0, 0,0.5);
+    background-blend-mode: multiply;
+    background-image: url(../banner/banner11.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px 40px 0px; 
+    box-sizing: border-box;
+    border-radius: 10px;
+    float:left;
+
+}
+.box10:hover a{
+    background-color: lightblue;
+    width: 100%;
+}
+
+
+.box10:hover h1{
+color: aqua;
+
+
+}
+
+.box10 h1{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 300ms;
+
+}
+
+.box10 p{
+color: white;
+margin: bottom 50px;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.box10 a{
+    color: white;
+    text-decoration: none;
+    width: 180px;
+    height: 40px;
+    background-color: red;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    transition: 300ms;
+}
+
+
+.box11{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    margin: 30px 20px;
+    background-color:rgba(0, 0, 0,0.5);
+    background-blend-mode: multiply;
+    background-image: url(../banner/banner12.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px 40px 0px; 
+    box-sizing: border-box;
+    border-radius: 10px;
+    float:left;
+
+}
+.box11:hover a{
+    background-color: lightblue;
+    width: 100%;
+}
+
+
+.box11:hover h1{
+color: aqua;
+
+
+}
+
+.box11 h1{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 300ms;
+
+}
+
+.box11 p{
+color: white;
+margin: bottom 50px;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.box11 a{
+    color: white;
+    text-decoration: none;
+    width: 180px;
+    height: 40px;
+    background-color: red;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    transition: 300ms;
+}
